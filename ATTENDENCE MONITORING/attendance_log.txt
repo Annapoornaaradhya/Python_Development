@@ -1,0 +1,50 @@
+2023-09-12 12:48:58,006 - INFO - Added student: Aishwraya K M (Roll No: 101)
+2023-09-12 12:48:58,007 - INFO - Added student: Ananya T (Roll No: 102)
+2023-09-12 12:48:58,007 - INFO - Added student: Annapoorna N (Roll No: 103)
+2023-09-12 12:48:58,007 - INFO - Added student: Annapoorna V (Roll No: 104)
+2023-09-12 12:48:58,007 - INFO - Added student: Baghya (Roll No: 105)
+2023-09-12 12:48:58,007 - INFO - Added student: Chaithanya S (Roll No: 106)
+2023-09-12 12:48:58,007 - INFO - Added student: Chandana H S (Roll No: 107)
+2023-09-12 12:48:58,007 - INFO - Added student: Divya N (Roll No: 108)
+2023-09-12 12:48:58,007 - INFO - Added student: Druthi V (Roll No: 109)
+2023-09-12 12:48:58,007 - INFO - Added student: H Khushi (Roll No: 110)
+2023-09-12 12:56:35,082 - INFO - Added student: Aishwraya K M (Roll No: 101)
+2023-09-12 12:56:35,083 - INFO - Added student: Ananya T (Roll No: 102)
+2023-09-12 12:56:35,083 - INFO - Added student: Annapoorna N (Roll No: 103)
+2023-09-12 12:56:35,083 - INFO - Added student: Annapoorna V (Roll No: 104)
+2023-09-12 12:56:35,083 - INFO - Added student: Baghya (Roll No: 105)
+2023-09-12 12:56:35,084 - INFO - Added student: Chaithanya S (Roll No: 106)
+2023-09-12 12:56:35,084 - INFO - Added student: Chandana H S (Roll No: 107)
+2023-09-12 12:56:35,084 - INFO - Added student: Divya N (Roll No: 108)
+2023-09-12 12:56:35,084 - INFO - Added student: Druthi V (Roll No: 109)
+2023-09-12 12:56:35,084 - INFO - Added student: H Khushi (Roll No: 110)
+2023-09-12 12:56:57,018 - INFO - Marked attendance for Aishwraya K M (Roll No: 101) on 12-09-2023.
+2023-09-12 12:56:58,399 - INFO - Marked attendance for Ananya T (Roll No: 102) on 12-09-2023.
+2023-09-12 12:56:59,599 - INFO - Marked attendance for Annapoorna N (Roll No: 103) on 12-09-2023.
+2023-09-12 12:57:03,633 - INFO - Marked attendance for Annapoorna V (Roll No: 104) on 12-09-2023.
+2023-09-12 12:57:04,673 - INFO - Marked attendance for Baghya (Roll No: 105) on 12-09-2023.
+2023-09-12 12:57:05,942 - INFO - Marked attendance for Chaithanya S (Roll No: 106) on 12-09-2023.
+2023-09-12 12:57:06,967 - INFO - Marked attendance for Chandana H S (Roll No: 107) on 12-09-2023.
+2023-09-12 12:57:08,272 - INFO - Marked attendance for Divya N (Roll No: 108) on 12-09-2023.
+2023-09-12 12:57:09,949 - INFO - Marked attendance for Druthi V (Roll No: 109) on 12-09-2023.
+2023-09-12 12:57:11,405 - INFO - Marked attendance for H Khushi (Roll No: 110) on 12-09-2023.
+2023-09-12 13:09:10,536 - INFO - Added student: Aishwraya K M (Roll No: 101)
+2023-09-12 13:09:10,536 - INFO - Added student: Ananya T (Roll No: 102)
+2023-09-12 13:09:10,536 - INFO - Added student: Annapoorna N (Roll No: 103)
+2023-09-12 13:09:10,536 - INFO - Added student: Annapoorna V (Roll No: 104)
+2023-09-12 13:09:10,536 - INFO - Added student: Baghya (Roll No: 105)
+2023-09-12 13:09:10,537 - INFO - Added student: Chaithanya S (Roll No: 106)
+2023-09-12 13:09:10,537 - INFO - Added student: Chandana H S (Roll No: 107)
+2023-09-12 13:09:10,537 - INFO - Added student: Divya N (Roll No: 108)
+2023-09-12 13:09:10,537 - INFO - Added student: Druthi V (Roll No: 109)
+2023-09-12 13:09:10,537 - INFO - Added student: H Khushi (Roll No: 110)
+2023-09-12 13:09:33,893 - INFO - Marked attendance for Aishwraya K M (Roll No: 101) on 12-09-2023.
+2023-09-12 13:09:34,539 - INFO - Marked attendance for Ananya T (Roll No: 102) on 12-09-2023.
+2023-09-12 13:09:35,582 - INFO - Marked attendance for Annapoorna N (Roll No: 103) on 12-09-2023.
+2023-09-12 13:09:36,531 - INFO - Marked attendance for Annapoorna V (Roll No: 104) on 12-09-2023.
+2023-09-12 13:09:37,261 - INFO - Marked attendance for Baghya (Roll No: 105) on 12-09-2023.
+2023-09-12 13:09:37,852 - INFO - Marked attendance for Chaithanya S (Roll No: 106) on 12-09-2023.
+2023-09-12 13:09:38,504 - INFO - Marked attendance for Chandana H S (Roll No: 107) on 12-09-2023.
+2023-09-12 13:09:39,406 - INFO - Marked attendance for Divya N (Roll No: 108) on 12-09-2023.
+2023-09-12 13:09:40,018 - INFO - Marked attendance for Druthi V (Roll No: 109) on 12-09-2023.
+2023-09-12 13:09:40,652 - INFO - Marked attendance for H Khushi (Roll No: 110) on 12-09-2023.
